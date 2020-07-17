@@ -9,3 +9,5 @@ Dette brukes til å gi en poengsum for hvor uvanlig/"sterkt" passordet kan sies 
 
 Passordlista brukt for å generere modellen model2019.mat besto
 av et 6-sifret antall unike passord.
+
+Programmet ble skrevet som del av faget IMT4113 Introduction to Cyber and Information Security Technology.
